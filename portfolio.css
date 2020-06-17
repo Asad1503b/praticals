@@ -1,0 +1,27 @@
+*{
+    margin: 0% auto;
+    padding: 0%;
+}
+body{
+    margin-top: -20px;
+}
+.menu {
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 100px;
+}
+.menu ul li {
+  display: inline;
+  float: left;
+  line-height: 2;
+  padding: 35px;
+  color: rgba(201, 193, 193, 0.918);
+}
+.menu > ul li:hover {
+  background-color: seashell;
+  color: rgb(63, 60, 60);
+}
+.card-subtext{
+    margin-left: 350px;
+    color: rgba(124, 117, 117, 0.767);
+    margin-top: 40px;
+}
